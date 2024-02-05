@@ -20,7 +20,7 @@ While these scripts were primarily created for helping with game research they c
 
 #### Usage:
 
-[Check the wiki section.](https://github.com/deaththed0g/dead_d0g-s-AC04-Cheat-Engine-repository/wiki)
+[Check the wiki section.](https://github.com/deaththed0g/AC04-Cheat-Engine-repository/wiki)
 
 #### Notes:
  
