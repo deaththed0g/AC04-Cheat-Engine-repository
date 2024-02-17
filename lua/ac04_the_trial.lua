@@ -8,10 +8,9 @@ if syntaxcheck then return end
 
 // ACE COMBAT 04: SHATTERED SKIES - THE TRIAL cheat table
 =========================================================
-
-This code was written and is best viewed on Notepad++ with "word wrap" off.
-
 - death_the_d0g
+
+This code was written and is best viewed on Notepad++ with the "word wrap" option off.
 
 TODO:
 - Further code improvement.
