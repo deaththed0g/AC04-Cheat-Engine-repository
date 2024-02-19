@@ -8,7 +8,7 @@ While these scripts were primarily created for helping with game research they c
 
 #### Download links:
 
-- [Gdrive](https://drive.google.com/drive/folders/1-aXQxdJHZAKmApQHNvnfsrvHUpG217pu?usp=drive_link)
+- Check the [**Releases**](https://github.com/deaththed0g/AC04-Cheat-Engine-repository/releases/tag/24.02.19) section.
 
 #### Required files and tools:
 
