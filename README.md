@@ -6,9 +6,9 @@ These tables contains scripts and a compilation of relevant memory addresses tha
 
 While these scripts were primarily created for helping with game research they can also be used for cheating. Stuff like giving the player infinite ammo, health, time, etc. can be also achieved with said scripts.
 
-#### Download link:
+#### Download links:
 
-- 
+- [Gdrive](https://drive.google.com/drive/folders/1-aXQxdJHZAKmApQHNvnfsrvHUpG217pu?usp=drive_link)
 
 #### Required files and tools:
 
